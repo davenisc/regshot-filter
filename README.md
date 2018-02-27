@@ -8,11 +8,11 @@ Script en python para facilitar el análisis de los logs generados por RegShot
 <h4> Antes de ejecutar este Script se deben ejecutar los siguientes comandos, esto aplica para Windows, ya que Kali Linux cuenta con la gran mayoria de librerias, aun si no se ejecuta bien el script en Kali linux los puede ejecutar para tener todas las librerias</h4>
 </DIV>
 
-<h4> python get-pip.py </h4>
+<h4> - python get-pip.py </h4>
 
-<h4> pip install colorama </h4>
+<h4> - pip install colorama </h4>
 
-<h4> pip install tqdm </h4>
+<h4> - pip install tqdm </h4>
 
 <h4> Se requiere tener permisos de administrador o Root al ejecutar el script </h4>
 
