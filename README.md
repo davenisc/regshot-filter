@@ -37,6 +37,6 @@ Script en python para facilitar el análisis de los logs generados por RegShot
 
 <a href="https://ibb.co/hJFuVx"><img src="https://preview.ibb.co/ixqiOH/Captura10.png" alt="Captura10" border="0"></a>
 
-
+<h4> aqui los datos de mis amigos ingenieros que ayudaron a que este Script funcionara @Sebastianf94 @whitepadawan</h4>
 
 
