@@ -14,6 +14,8 @@ Script en python para facilitar el análisis de los logs generados por RegShot
 
 <h4> - pip install tqdm </h4>
 
+<h4> Para que el script filtre lo que nos entrega RegShot se debe guardar en la misma carpeta del Script un archivo .txt con el nombre doc.txt </h4>
+
 <h4> Se requiere tener permisos de administrador o Root al ejecutar el script </h4>
 
 <h4> Para más información se pueden contactar conmigo a sysvd@protonmail.com </h4>
